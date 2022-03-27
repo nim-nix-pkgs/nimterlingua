@@ -11,6 +11,7 @@
   inputs.src-nimterlingua-master.ref   = "refs/heads/master";
   inputs.src-nimterlingua-master.owner = "juancarlospaco";
   inputs.src-nimterlingua-master.repo  = "nim-internimgua";
+  inputs.src-nimterlingua-master.dir   = "";
   inputs.src-nimterlingua-master.type  = "github";
   
   outputs = { self, nixpkgs, flakeNimbleLib, ...}@deps:
