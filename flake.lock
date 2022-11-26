@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "master",
-        "lastModified": 1668776001,
-        "narHash": "sha256-oLVAQrvvTRLRuDohso8ZIIERwOc7gKQiOIhrgtIbDLQ=",
+        "lastModified": 1669431267,
+        "narHash": "sha256-9tLySGrCaO2qdPif/vk8SdcnzK/JHTEM9RFtnQERC6o=",
         "owner": "nim-nix-pkgs",
         "repo": "nimterlingua",
-        "rev": "c0930e37eaaf6e312e055cc39d91ab258fb373d3",
+        "rev": "795dda35276cd50dc4bf41f1e4e52b079036638b",
         "type": "github"
       },
       "original": {
